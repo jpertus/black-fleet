@@ -1,5 +1,7 @@
 use std::sync::Arc;
 mod camera;
+mod model;
+mod resources;
 mod state;
 mod texture;
 
